@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SM17178_G03_PRACTICA2</string>
 
@@ -19,4 +20,6 @@
     <string name="PropiedadesTe">Propiedades</string>
     <string name="base_text">Pincha en la imagen para encontrar tiendas de productos agrarios</string>
     <string name="BotonLlamada">Atención al cliente</string>
+    <string name="title_activity_action">Action</string>
+    <string name="action_riego">Riego</string>
 </resources>
